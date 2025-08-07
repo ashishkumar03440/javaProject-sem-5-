@@ -1,0 +1,44 @@
+.canvas{
+    background-color: #fff;
+    padding:10px 30px;
+    border-radius:8px;
+    color: #212121;
+    text-decoration: none;
+    border: 2px solid #212121;
+
+}
+
+#grey{
+    background-color: grey;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: 2px solid #212121;
+
+}
+#white{
+    background-color: #fff;
+    color: #212121;
+    padding: 10px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: 2px solid #212121;
+}
+
+#blue{
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: 2px solid #212121;
+}
+#yellow{
+    background-color: #ffc107;
+    color: #212121;
+    padding: 10px 30px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: 2px solid #212121;
+}
